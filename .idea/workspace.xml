@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02bfe0dd-d553-471f-9e1c-169e1f2af06b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01.Hello_Spring/src/lk/nayomi/spring/Beans/SpringBean2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01.Hello_Spring/src/lk/nayomi/spring/Beans/Bean_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/01.Hello_Spring/src/lk/nayomi/spring/Beans/SpringBean1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/01.Hello_Spring/src/lk/nayomi/spring/main/Appinicielizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/01.Hello_Spring/src/lk/nayomi/spring/main/Appinicielizer.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -52,12 +48,12 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="11" />
-          <entry key="java" value="243" />
+          <entry key="java" value="325" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="243" />
+          <entry key="JAVA" value="325" />
           <entry key="PLAIN_TEXT" value="11" />
         </counts>
       </usages-collector>
@@ -77,7 +73,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/01.Hello_Spring/src/lk/nayomi/spring/Beans/SpringBean2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
@@ -90,13 +86,15 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/01.Hello_Spring/src/lk/nayomi/spring/main/Appinicielizer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="270">
+              <caret line="29" column="33" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#401#402#0" expanded="true" />
+                <element signature="e#479#480#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -128,8 +126,8 @@
       <list>
         <option value="$PROJECT_DIR$/01.Hello_Spring/src/lk/nayomi/spring/Beans/Bean_01.java" />
         <option value="$PROJECT_DIR$/01.Hello_Spring/src/lk/nayomi/spring/main/Appconfig.java" />
-        <option value="$PROJECT_DIR$/01.Hello_Spring/src/lk/nayomi/spring/main/Appinicielizer.java" />
         <option value="$PROJECT_DIR$/01.Hello_Spring/src/lk/nayomi/spring/Beans/SpringBean2.java" />
+        <option value="$PROJECT_DIR$/01.Hello_Spring/src/lk/nayomi/spring/main/Appinicielizer.java" />
       </list>
     </option>
   </component>
@@ -139,11 +137,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="y" value="-10" />
-    <option name="width" value="1940" />
-    <option name="height" value="1050" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="978" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -187,7 +185,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1594166121440" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1594179505156" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/libs/spring-websocket-5.2.7.RELEASE.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -240,18 +238,18 @@
       <workItem from="1594043765862" duration="601000" />
       <workItem from="1594086935372" duration="1188000" />
       <workItem from="1594127184136" duration="3677000" />
-      <workItem from="1594165323456" duration="784000" />
+      <workItem from="1594165323456" duration="1590000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6250000" />
+    <option name="totallyTimeSpent" value="7056000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="782" height="838" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4978903" visible="true" weight="0.1" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4978903" visible="true" weight="0.20637119" />
       <window_info id="Structure" order="1" sideWeight="0.5021097" side_tool="true" weight="0.094630875" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -279,7 +277,7 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Database" order="7" visible="true" weight="0.22483222" />
+      <window_info anchor="right" id="Database" order="7" weight="0.46398893" />
       <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
   </component>
@@ -307,16 +305,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01.Hello_Spring/src/lk/nayomi/spring/main/Appinicielizer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/01.Hello_Spring/src/lk/nayomi/spring/Beans/SpringBean2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -324,6 +312,18 @@
           <folding>
             <element signature="e#77#78#0" expanded="true" />
             <element signature="e#113#114#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.Hello_Spring/src/lk/nayomi/spring/main/Appinicielizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="29" column="33" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#401#402#0" expanded="true" />
+            <element signature="e#479#480#0" expanded="true" />
           </folding>
         </state>
       </provider>

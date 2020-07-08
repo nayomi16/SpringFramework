@@ -6,6 +6,13 @@ import org.springframework.context.annotation.AnnotationConfigApplicationContext
 
 public class Appinicielizer {
     public static void main(String[] args) {
+        Runtime.getRuntime().addShutdownHook(new Thread(new Runnable() {
+            @Override
+            public void run() {
+                System.out.println("JVM is going to shutdown");
+            }
+        }));
+
         AnnotationConfigApplicationContext ctx=new AnnotationConfigApplicationContext();
         ctx.register(Appconfig.class);
         ctx.refresh();
@@ -18,6 +25,10 @@ public class Appinicielizer {
         SpringBean2 bean4 = ctx.getBean(SpringBean2.class);
         System.out.println(bean3);
         System.out.println(bean4);
+        ctx.close();
+
+        System.out.println("ended");
+
 
     }
 }
