@@ -3,7 +3,7 @@ package lk.nayomi.spring.Beans;
 import org.springframework.beans.factory.DisposableBean;
 import org.springframework.stereotype.Component;
 
-//@Component
+@Component
 public class SpringBean1 implements DisposableBean {
     SpringBean1(){
         System.out.println("Bean Instantiated");
