@@ -1,10 +1,19 @@
 package lk.nayomi.Spring.bean;
 
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
+
+@Component
 public class Boy {
-    public static void main(String[] args) {
-        GoodGirl goodGirl=new Girl();
-        while(true){
-            goodGirl.kiss();
-        }
+
+    @Autowired
+    GoodGirl girl;
+
+    public Boy() {
+        System.out.println("Boy constructer");
+    }
+
+    public void kiss(){
+        girl.kiss();
     }
 }
