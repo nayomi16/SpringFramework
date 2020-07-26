@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02bfe0dd-d553-471f-9e1c-169e1f2af06b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/02.Spring_DependencyInjection/src/lk/nayomi/Spring/bean/Boy.java" beforeDir="false" afterPath="$PROJECT_DIR$/02.Spring_DependencyInjection/src/lk/nayomi/Spring/bean/Boy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02.Spring_DependencyInjection/src/lk/nayomi/Spring/bean/Girl1.java" beforeDir="false" afterPath="$PROJECT_DIR$/02.Spring_DependencyInjection/src/lk/nayomi/Spring/bean/Girl1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03.LiteModeVSFullMode/03.LiteModeVSFullMode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03.LiteModeVSFullMode/src/lk/nayomi/spring/bean/Bean1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03.LiteModeVSFullMode/src/lk/nayomi/spring/bean/Bean2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03.LiteModeVSFullMode/src/lk/nayomi/spring/bean/Bean3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03.LiteModeVSFullMode/src/lk/nayomi/spring/main/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03.LiteModeVSFullMode/src/lk/nayomi/spring/main/AppInitializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,23 +48,23 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="14" />
+          <entry key="java" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="14" />
+          <entry key="JAVA" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="14" />
-          <entry key="java" value="1152" />
+          <entry key="java" value="1387" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1152" />
+          <entry key="JAVA" value="1387" />
           <entry key="PLAIN_TEXT" value="14" />
         </counts>
       </usages-collector>
@@ -67,43 +73,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01.Hello_Spring/src/lk/nayomi/spring/Beans/SpringBeans3.java">
+        <entry file="file://$PROJECT_DIR$/03.LiteModeVSFullMode/src/lk/nayomi/spring/main/AppInitializer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+            <state relative-caret-position="204">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01.Hello_Spring/src/lk/nayomi/spring/Beans/SpringBeans4.java">
+        <entry file="file://$PROJECT_DIR$/03.LiteModeVSFullMode/src/lk/nayomi/spring/main/AppConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02.Spring_DependencyInjection/src/lk/nayomi/Spring/main/AppInitializer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02.Spring_DependencyInjection/src/lk/nayomi/Spring/bean/Girl2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="8" />
+            <state relative-caret-position="221">
+              <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -112,69 +94,44 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/02.Spring_DependencyInjection/src/lk/nayomi/Spring/bean/Boy.java">
+        <entry file="file://$PROJECT_DIR$/03.LiteModeVSFullMode/src/lk/nayomi/spring/bean/Bean1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="323">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#133#134#0" expanded="true" />
+                <element signature="e#169#170#0" expanded="true" />
+                <element signature="e#217#218#0" expanded="true" />
+                <element signature="e#251#252#0" expanded="true" />
+                <element signature="e#287#288#0" expanded="true" />
+                <element signature="e#321#322#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02.Spring_DependencyInjection/src/lk/nayomi/Spring/bean/Girl1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02.Spring_DependencyInjection/src/lk/nayomi/Spring/bean/GoodGirl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02.Spring_DependencyInjection/src/lk/nayomi/Spring/main/AppConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="6" column="52" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="52" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01.Hello_Spring/src/lk/nayomi/spring/Beans/SpringBean1.java">
+        <entry file="file://$PROJECT_DIR$/03.LiteModeVSFullMode/src/lk/nayomi/spring/bean/Bean2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#133#134#0" expanded="true" />
+                <element signature="e#169#170#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01.Hello_Spring/src/lk/nayomi/spring/main/Appinicielizer.java">
+        <entry file="file://$PROJECT_DIR$/03.LiteModeVSFullMode/src/lk/nayomi/spring/bean/Bean3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="31" column="32" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+            <state relative-caret-position="85">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#72#73#0" expanded="true" />
+                <element signature="e#108#109#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -209,6 +166,11 @@
         <option value="$PROJECT_DIR$/02.Spring_DependencyInjection/src/lk/nayomi/Spring/bean/Girl2.java" />
         <option value="$PROJECT_DIR$/02.Spring_DependencyInjection/src/lk/nayomi/Spring/bean/Girl1.java" />
         <option value="$PROJECT_DIR$/02.Spring_DependencyInjection/src/lk/nayomi/Spring/bean/Boy.java" />
+        <option value="$PROJECT_DIR$/03.LiteModeVSFullMode/src/lk/nayomi/spring/main/AppInitializer.java" />
+        <option value="$PROJECT_DIR$/03.LiteModeVSFullMode/src/lk/nayomi/spring/bean/Bean3.java" />
+        <option value="$PROJECT_DIR$/03.LiteModeVSFullMode/src/lk/nayomi/spring/bean/Bean2.java" />
+        <option value="$PROJECT_DIR$/03.LiteModeVSFullMode/src/lk/nayomi/spring/main/AppConfig.java" />
+        <option value="$PROJECT_DIR$/03.LiteModeVSFullMode/src/lk/nayomi/spring/bean/Bean1.java" />
       </list>
     </option>
   </component>
@@ -217,6 +179,12 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="951" />
@@ -250,23 +218,32 @@
             </path>
             <path>
               <item name="Spring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="02" type="9c53a853:ProjectViewModuleGroupNode" />
-              <item name="02.Spring_DependencyInjection" type="462c0819:PsiDirectoryNode" />
+              <item name="03" type="9c53a853:ProjectViewModuleGroupNode" />
+            </path>
+            <path>
+              <item name="Spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="03" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="03.LiteModeVSFullMode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="03" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="03.LiteModeVSFullMode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Spring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="02" type="9c53a853:ProjectViewModuleGroupNode" />
-              <item name="02.Spring_DependencyInjection" type="462c0819:PsiDirectoryNode" />
+              <item name="03" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="03.LiteModeVSFullMode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Spring" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Spring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="02" type="9c53a853:ProjectViewModuleGroupNode" />
-              <item name="02.Spring_DependencyInjection" type="462c0819:PsiDirectoryNode" />
+              <item name="03" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="03.LiteModeVSFullMode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Spring" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
               <item name="bean" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -278,7 +255,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1595790321014" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1595792011553" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/libs/spring-websocket-5.2.7.RELEASE.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -299,9 +276,16 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="app" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="lk.nayomi.Spring.main.AppInitializer" />
-      <module name="02.Spring_DependencyInjection" />
+    <configuration name="Lite" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="lk.nayomi.spring.main.AppInitializer" />
+      <module name="03.LiteModeVSFullMode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="lk.nayomi.spring.main.AppInitializer" />
+      <module name="03.LiteModeVSFullMode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -325,18 +309,18 @@
       <workItem from="1594216802808" duration="2337000" />
       <workItem from="1594254015788" duration="2153000" />
       <workItem from="1595601342040" duration="1891000" />
-      <workItem from="1595781957333" duration="1461000" />
+      <workItem from="1595781957333" duration="3017000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18149000" />
+    <option name="totallyTimeSpent" value="19705000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="761" y="-7" width="782" height="838" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49291784" weight="0.3805369" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49291784" weight="0.18389262" />
       <window_info id="Structure" order="1" sideWeight="0.50708216" side_tool="true" weight="0.38088644" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -345,7 +329,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info active="true" anchor="bottom" id="Database Console" order="0" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Message" order="1" />
-      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.3286119" />
       <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
@@ -365,10 +349,10 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Database" order="7" weight="0.46398893" />
-      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32963988" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49291784" visible="true" weight="0.38088644" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49291784" visible="true" weight="0.18389262" />
       <window_info id="Structure" order="1" sideWeight="0.50708216" side_tool="true" weight="0.38088644" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -377,8 +361,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info active="true" anchor="bottom" id="Database Console" order="0" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Message" order="1" />
-      <window_info anchor="bottom" id="Find" order="2" />
-      <window_info anchor="bottom" id="Run" order="3" weight="0.3286119" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -397,7 +381,7 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Database" order="7" weight="0.46398893" />
-      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32963988" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -424,34 +408,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01.Hello_Spring/src/lk/nayomi/spring/Beans/SpringBeans3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/01.Hello_Spring/src/lk/nayomi/spring/Beans/SpringBeans4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02.Spring_DependencyInjection/src/lk/nayomi/Spring/bean/GoodGirl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02.Spring_DependencyInjection/src/lk/nayomi/Spring/main/AppConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="6" column="52" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -478,10 +438,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/02.Spring_DependencyInjection/src/lk/nayomi/Spring/main/AppInitializer.java">
+    <entry file="file://$PROJECT_DIR$/02.Spring_DependencyInjection/src/lk/nayomi/Spring/main/AppConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        <state relative-caret-position="102">
+          <caret line="6" column="52" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02.Spring_DependencyInjection/src/lk/nayomi/Spring/bean/GoodGirl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02.Spring_DependencyInjection/src/lk/nayomi/Spring/bean/Girl1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02.Spring_DependencyInjection/src/lk/nayomi/Spring/bean/Boy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -498,22 +485,81 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/02.Spring_DependencyInjection/src/lk/nayomi/Spring/bean/Girl1.java">
+    <entry file="file://$PROJECT_DIR$/02.Spring_DependencyInjection/src/lk/nayomi/Spring/main/AppInitializer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        <state relative-caret-position="238">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/02.Spring_DependencyInjection/src/lk/nayomi/Spring/bean/Boy.java">
+    <entry file="file://$PROJECT_DIR$/01.Hello_Spring/src/lk/nayomi/spring/Beans/SpringBeans3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03.LiteModeVSFullMode/src/lk/nayomi/spring/main/AppInitializer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03.LiteModeVSFullMode/src/lk/nayomi/spring/bean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03.LiteModeVSFullMode/src/lk/nayomi/spring/bean/Bean3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="e#72#73#0" expanded="true" />
+            <element signature="e#108#109#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03.LiteModeVSFullMode/src/lk/nayomi/spring/bean/Bean2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#133#134#0" expanded="true" />
+            <element signature="e#169#170#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03.LiteModeVSFullMode/src/lk/nayomi/spring/main/AppConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03.LiteModeVSFullMode/src/lk/nayomi/spring/bean/Bean1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#133#134#0" expanded="true" />
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#217#218#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#287#288#0" expanded="true" />
+            <element signature="e#321#322#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -570,7 +616,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>02.Spring_DependencyInjection</last-edited>
+          <last-edited>03.LiteModeVSFullMode</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

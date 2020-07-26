@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/01.Hello_Spring/01.Hello_Spring.iml" filepath="$PROJECT_DIR$/01.Hello_Spring/01.Hello_Spring.iml" />
       <module fileurl="file://$PROJECT_DIR$/02.Spring_DependencyInjection/02.Spring_DependencyInjection.iml" filepath="$PROJECT_DIR$/02.Spring_DependencyInjection/02.Spring_DependencyInjection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03.LiteModeVSFullMode/03.LiteModeVSFullMode.iml" filepath="$PROJECT_DIR$/03.LiteModeVSFullMode/03.LiteModeVSFullMode.iml" />
     </modules>
   </component>
 </project>
