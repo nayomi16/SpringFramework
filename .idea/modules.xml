@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/01.Hello_Spring/01.Hello_Spring.iml" filepath="$PROJECT_DIR$/01.Hello_Spring/01.Hello_Spring.iml" />
       <module fileurl="file://$PROJECT_DIR$/02.Spring_DependencyInjection/02.Spring_DependencyInjection.iml" filepath="$PROJECT_DIR$/02.Spring_DependencyInjection/02.Spring_DependencyInjection.iml" />
       <module fileurl="file://$PROJECT_DIR$/03.LiteModeVSFullMode/03.LiteModeVSFullMode.iml" filepath="$PROJECT_DIR$/03.LiteModeVSFullMode/03.LiteModeVSFullMode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04.Configuration/04.Configuration.iml" filepath="$PROJECT_DIR$/04.Configuration/04.Configuration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05.SpringWebMVC/05.SpringWebMVC.iml" filepath="$PROJECT_DIR$/05.SpringWebMVC/05.SpringWebMVC.iml" />
     </modules>
   </component>
 </project>
